@@ -1,0 +1,20 @@
+.bg-custom {
+    background-image: url('https://media.discordapp.net/attachments/1096660164439982181/1197617758741987429/aaa.jpg?ex=65bbeb74&is=65a97674&hm=2b893aa6e90aaaa81a13308c5cd0b61be310f56c65ea0adb8d9690e4f56febe5&=&format=webp');
+    background-size: cover; /* or 'contain' if you prefer to scale the image to fit within the div */
+   }
+.bg-card {
+    background: rgba(46,77,71,0.5);
+-webkit-backdrop-filter: blur(10px);
+backdrop-filter: blur(10px);
+border: 1px solid rgba(46,77,71,0.25);
+}
+
+.font-main {
+    color: #f16d23;
+}
+
+.meal-item .loader {
+    display: none;
+  }
+
+  
